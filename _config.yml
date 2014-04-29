@@ -1,3 +1,4 @@
 name: Jekyll Site
 markdown: redcarpet
 pygmets: true
+baseurl: /Jekyll
